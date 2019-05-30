@@ -25,17 +25,20 @@ body {
 
 #menuAndRelated {
 	position: relative;
-	top: 750px;
-	right: 165px;
+	top: 1050px;
+	/* right: 165px; */
+	width: 608px;
+	left:235px;
 }
 
 #reviews {
 	position: relative;
-	top: 720px;
-	left: 250px;
+	top: 1050px;
+	left: 233px;
+	height: auto;
 }
 
 #footer {
 	position: relative;
-	top: 700px;
+	top: 1100px;
 }
